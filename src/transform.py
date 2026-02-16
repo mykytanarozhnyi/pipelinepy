@@ -19,4 +19,8 @@ def calculate_kpis(df):
     daily['roas'] = (daily['revenue'] / daily['ad_spend']).round(2)
     daily['cac'] = (daily['ad_spend'] / daily['orders']).round(2)
 
+    # Convert Timestamp to string so it can be sent to Google Sheets/Email
+    daily['date'] = daily['date'].dt.strftime('%Y-%m-%d')
+    # ------------------------------
+
     return daily
