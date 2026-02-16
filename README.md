@@ -50,10 +50,6 @@ logs/: A built-in logging system to track performance and troubleshoot issues.
 📊 Getting Started
 If you want to run this locally, it's pretty straightforward:
 
-Clone the Repo:
-
-Bash
-git clone https://github.com/your-username/automated-kpi-reporting.git
 Install the Requirements:
 
 Bash
@@ -65,6 +61,7 @@ Launch the Pipeline:
 
 Bash
 python main.py
+
 🗺️ Future Roadmap
 I’m planning to take this project further by:
 
