@@ -1,3 +1,6 @@
+Live Demo of Data and Executive Dashboard (View Only)
+https://docs.google.com/spreadsheets/d/1evwP022K3yqhZx1sl9qZiqgOp5Kih-8DWZVNTXJRJ-g/edit?usp=sharing
+
 🌟 The "Why" Behind This Project
 I built this project to solve a classic analytics headache: the morning routine of manual reporting. In most companies, analysts spend hours every week downloading CSVs, cleaning data in Excel, and copy-pasting numbers into dashboards. It’s tedious, prone to human error, and frankly, a waste of an analyst's brainpower.
 
